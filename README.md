@@ -1,4 +1,4 @@
 # nuclei_kaggle
 Nuclei kaggle
 
-![alt text, 10%](data/web-app.png)
+![alt text, 1%](data/web-app.png)
