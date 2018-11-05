@@ -6,4 +6,4 @@ Nuclei kaggle
 
 # Break
 
-<img src="data/web-app.png">
+<img src="data/web-app.png" height="150">
